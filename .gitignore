@@ -1,4 +1,4 @@
 *.tex
 **/Images
 **.DS_STORE
-/Summary_Template
+*/Summary_Template
