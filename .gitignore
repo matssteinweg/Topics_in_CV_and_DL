@@ -1,2 +1,3 @@
 *.tex
 **/Images
+**.DS_STORE
