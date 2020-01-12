@@ -21,7 +21,6 @@ Collection of my personal summaries of Computer Vision and Deep Learning papers.
 - [Overview](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Uncertainty_Estimation/Overview/Uncertainty_Estimation.pdf)
 
 #### Individual Summaries
-- [Weight Uncertainty in Neural Networks (ICML 2015)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Uncertainty_Estimation/Bayes_by_Backprop/Bayes_by_Backprop.pdf)
-- [Dropout as a Bayesian Approximation (ICML 2016)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Uncertainty_Estimation/Monte_Carlo_Dropout/Monte_Carlo_Dropout.pdf)
 - [On Calibration of Modern Neural Network (ICML 2017)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Uncertainty_Estimation/Calibration/Calibration.pdf)
-
+- [Dropout as a Bayesian Approximation (ICML 2016)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Uncertainty_Estimation/Monte_Carlo_Dropout/Monte_Carlo_Dropout.pdf)
+- [Weight Uncertainty in Neural Networks (ICML 2015)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Uncertainty_Estimation/Bayes_by_Backprop/Bayes_by_Backprop.pdf)
