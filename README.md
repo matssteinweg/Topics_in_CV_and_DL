@@ -7,6 +7,7 @@ Collection of my personal summaries of Computer Vision and Deep Learning papers.
 - [Overview](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/Overview/Point_Cloud_Methods.pdf)
 
 #### Individual Summaries
+- [PointRCNN (CVPR 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointRCNN/PointRCNN.pdf)
 - [VoteNet (ICCV 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/VoteNet/VoteNet.pdf)
 - [PointNet++ (NIPS 2017)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointNet++/PointNet++.pdf)
 - [PointNet (CVPR 2017)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointNet/PointNet.pdf)
