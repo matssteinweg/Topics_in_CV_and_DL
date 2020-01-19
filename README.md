@@ -7,8 +7,9 @@ Collection of my personal summaries of Computer Vision and Deep Learning papers.
 - [Overview](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/Overview/Point_Cloud_Methods.pdf)
 
 #### Individual Summaries
-- [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud (CVPR 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointRCNN/PointRCNN.pdf)
 - [Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/VoteNet/VoteNet.pdf)
+- [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud (CVPR 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointRCNN/PointRCNN.pdf)
+- [PIXOR: Real-time 3D Object Detection from Point Clouds (CVPR 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PIXOR/PIXOR.pdf)
 - [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space (NIPS 2017)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointNet++/PointNet++.pdf)
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (CVPR 2017)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointNet/PointNet.pdf)
 
