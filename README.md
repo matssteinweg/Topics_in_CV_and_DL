@@ -23,6 +23,7 @@ Publications in [Section 1](#object-detection-for-autonomous-driving) will focus
 
 The area of depth estimation is concerned with the extraction of depth information from either mono or stereo camera images. As all 3D Computer Vision tasks rely on accurate depth information, algorithms for depth estimation from image data are highly relevant to help close the performance gap between image-based methods and approaches that leverage information obtained by 3D-sensor such as LiDAR sensors or RGB-D scanners. Publications mainly focus on depth estimation in the context of 3D object detection for autonomous driving.
 
+- [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving (ICLR 2020)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Depth_Estimation/PseudoLidar++/PseudoLidar++.pdf)
 - [Pseudo-LiDAR from Visual Depth Estimation:
 Bridging the Gap in 3D Object Detection for Autonomous Driving (CVPR 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Depth_Estimation/PseudoLidar/PseudoLidar.pdf)
 
