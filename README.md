@@ -11,6 +11,8 @@ Publications in [Section 1](#object-detection-for-autonomous-driving) will focus
 
 - [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection (ArXiv 2020)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PV-RCNN/PV-RCNN.pdf)
 - [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud (CVPR 2019)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PointRCNN/PointRCNN.pdf)
+- [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+ (CVPR 2018)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/VoxelNet/VoxelNet.pdf)
 - [Frustum PointNets for 3D Object Detection from RGB-D Data (CVPR 2018)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/Frustum_PointNet/Frustum_PointNet.pdf)
 - [PIXOR: Real-time 3D Object Detection from Point Clouds (CVPR 2018)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/PIXOR/PIXOR.pdf)
 - [Joint 3D Proposal Generation and Object Detection from View Aggregation (IROS 2018)](https://github.com/matssteinweg/Topics_in_CV_and_DL/tree/master/Point_Cloud_Methods/AVOD/AVOD.pdf)
